@@ -52,7 +52,7 @@ public class ManutencaoCorrida extends javax.swing.JDialog {
 
         jButton4.setText("Cancelar");
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Interlagos" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Hockenheimring", "Nazionale Monza", "Interlagos", " " }));
 
         jLabel3.setText("Circuito:");
 
